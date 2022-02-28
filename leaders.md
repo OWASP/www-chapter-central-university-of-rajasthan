@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Jay Bhatt](mailto:jay.bhatt@owasp.org)
+* [Dr. Tarun Kumar](mailto:tatrun.kumar@owasp.org)
