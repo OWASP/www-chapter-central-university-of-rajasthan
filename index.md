@@ -31,10 +31,3 @@ The mission of the university is to become one of India's most dynamic & vibrant
 We are a community of students in infancy, who aim to build an unprecidented culture & society of Cybersecurity which is on par to the development of our Univeristy, hoping to ignite the same passion in others who can contribute to this field and lead the next leap.
 
 ---
-
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
