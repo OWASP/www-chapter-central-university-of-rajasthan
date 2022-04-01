@@ -25,7 +25,8 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </ul>
 
 </div>
-![OWASP_CURAJ_LOGO](/assets/images/OWASP_CURAJ_Alpha.png)
+
+![OWASP_CURAJ_LOGO](assets/images/OWASP_CURAJ_Beta.png)
 
 # OWASP Central University Of Rajasthan - Student Chapter
 
