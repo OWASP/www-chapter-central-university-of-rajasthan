@@ -2,8 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Central University of Rajasthan
-tags: example-tag
+tags: curaj
 region: Asia
+country: India
 meetup-group:
 
 ---
