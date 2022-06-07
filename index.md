@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Central University of Rajasthan
+title: OWASP Central University of Rajasthan - Student Chapter
 tags: curaj
 region: Asia
 country: India
